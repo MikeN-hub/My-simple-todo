@@ -1,11 +1,15 @@
 import React, { useState, useContext } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import { BsFillArrowLeftCircleFill } from 'react-icons/bs'
 import { MyContext } from '../context'
 
 const Modal = () => {
   const [inputText, setinputText] = useState('')
   const { addTask } = useContext(MyContext)
+
+  const location = useLocation()
+  const { editingTodo } = location.state
+  console.log(editingTodo)
 
   const submitHandler = (e) => {
     e.preventDefault()

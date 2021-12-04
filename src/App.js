@@ -47,8 +47,9 @@ function App() {
     )
   }
 
-  const editTask = (id) => {
+  const editTask = (task) => {
     console.log('edited')
+    
   }
 
   return (
