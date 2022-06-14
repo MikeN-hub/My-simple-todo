@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MikeN-hub/my-simple-todo/static/css/main.a0f58e6d.chunk.css",
+    "main.js": "/MikeN-hub/my-simple-todo/static/js/main.4e16eb03.chunk.js",
+    "main.js.map": "/MikeN-hub/my-simple-todo/static/js/main.4e16eb03.chunk.js.map",
+    "runtime-main.js": "/MikeN-hub/my-simple-todo/static/js/runtime-main.50a63f72.js",
+    "runtime-main.js.map": "/MikeN-hub/my-simple-todo/static/js/runtime-main.50a63f72.js.map",
+    "static/js/2.badbafd7.chunk.js": "/MikeN-hub/my-simple-todo/static/js/2.badbafd7.chunk.js",
+    "static/js/2.badbafd7.chunk.js.map": "/MikeN-hub/my-simple-todo/static/js/2.badbafd7.chunk.js.map",
+    "index.html": "/MikeN-hub/my-simple-todo/index.html",
+    "static/css/main.a0f58e6d.chunk.css.map": "/MikeN-hub/my-simple-todo/static/css/main.a0f58e6d.chunk.css.map",
+    "static/js/2.badbafd7.chunk.js.LICENSE.txt": "/MikeN-hub/my-simple-todo/static/js/2.badbafd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50a63f72.js",
+    "static/js/2.badbafd7.chunk.js",
+    "static/css/main.a0f58e6d.chunk.css",
+    "static/js/main.4e16eb03.chunk.js"
+  ]
+}
