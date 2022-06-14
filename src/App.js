@@ -47,9 +47,10 @@ function App() {
     )
   }
 
-  const editTask = (task) => {
+  const editTask = (id, text) => {
     console.log('edited')
-    
+    setData(data.map(item => item.id === id ? {...item, text: text} : {...item}
+      ))
   }
 
   return (
